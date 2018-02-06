@@ -22,4 +22,4 @@ Here are my [Response Answers from Part 1: Assignment](./responses.txt)
 - I had misspelled "notes" in my /notes.txt link, which took an embarrassing amount of time to catch why it wasn't uploading.
 - I realize I give myself a quick "thumbs-up" whenever I succeed in something I'm struggling with.
 
-### Here's my Screencap of Work from Part 1: Assignment![Screencap of Work from Part 1: Assignment](./images/screencap-2.png)
+### Here's my Screencap of Work from Part 1: Assignment![Screencap of Work from Part 1: Assignment](./images/screencap2.png)
