@@ -3,4 +3,4 @@
 
 My [Course Notes](./notes.txt)
 
-![Image of my Progress Thus Far!](./images/creencap.png)
+![Image of my Progress Thus Far!](./images/screencap.png)
