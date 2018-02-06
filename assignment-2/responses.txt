@@ -1,0 +1,7 @@
+In order to send data over the internet, your computer must **translate the alphabetic text to an electronic signal**, then back to an alphabetic text. This is translated **via a protocol stack**. In each step, the data is broken down into smaller bits of information called **packets**. Then these packets are asigned a **port number** in order to be received by the destination computer. The packets then receive its **destination IP**, where it's then translated to **electronic signals via the computer's hardware**. The destination computer's **router**, which then **sends it to the correct IP address**, where the computer then **translates the electronic signals to alphabetic text in the reverse order they were sent**.
+
+An **IP Address** is an address assigned to a computer as identification. Similar to a social security number. A **DNS** is a **Domain Name Service** is a mechanism to translate IP addresses to a domain, as well as translate domains into IP addresses, like having your name associated to your Social Security Number, and vice versa.
+
+Cookies store information from one website session to another and are stored on an individual's computer. They contain lookup tables with pairs of data values. These data values can then be retrieved by the server and used to customize web pages to the individual user.
+
+The three basic parts of a URL are the **protocol** the **server name** and **resource ID**
