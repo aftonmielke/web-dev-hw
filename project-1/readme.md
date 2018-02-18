@@ -18,3 +18,6 @@ On the Wayback machine, I went to google.com, as it was the only site I could th
 - I discovered the importance of adding an end element, and how it affects the entire rest of the page
 - I had to rage quit. Twice.
 - I'm grateful I kept all my push comments... *appropriate*
+
+### Here's my Screencap of Work from Project 1
+[Screencap of Work from Project 1](./images/screencap.png)
