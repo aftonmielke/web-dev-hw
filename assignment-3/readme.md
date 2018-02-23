@@ -13,7 +13,7 @@
   - I spent fifteen minutes trying to figure out why my relative URL wasn't working. It was because I needed another .
   - I couldn't remember how to get a link with a visible hyperlink, I included  ```<a href="___"/a>``` with a the URL's name included.
   - I realized I'd been a little impatient when it came to waiting for updates to the github server.
-  - I couldn't get the beetcake image to post!
+  - I couldn't get the beetcake image to post! I was missing a quotation mark. Took me 45 minutes and a break to figure out.
   #### My Successes
   - I felt as though I had a pretty good hold on this assignment and what it was asking of me.
   - I was able to give emphasis, italicize, cite and define on my first push to github every time.
