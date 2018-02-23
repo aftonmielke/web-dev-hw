@@ -13,9 +13,13 @@
   - I spent fifteen minutes trying to figure out why my relative URL wasn't working. It was because I needed another .
   - I couldn't remember how to get a link with a visible hyperlink, I included  ```<a href="___"/a>``` with a the URL's name included.
   - I realized I'd been a little impatient when it came to waiting for updates to the github server.
+  - I couldn't get the beetcake image to post!
   #### My Successes
   - I felt as though I had a pretty good hold on this assignment and what it was asking of me.
   - I was able to give emphasis, italicize, cite and define on my first push to github every time.
   - I was able to troublshoot all my issues without even yelling or crying.
   - I didn't have to rage quit.
   -I discovered command+/ puts the line into a comment! Neat!
+
+### Screencap of Work during Assignment 3
+[Screencap of Work from Assignment 3](./images/screencap.png)
