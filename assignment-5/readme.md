@@ -28,4 +28,4 @@ Media from a third party allows servers to be less bogged down by the size of a 
 - I still struggle a little with relative URLS.
 
 ### Screencap of my Progress During Assignment 5.
-[Screencap of Work from Assignment 5](./images/screencrap-progress.png)
+[Screencap of Work from Assignment 5](./images/screencap-progress.png)
