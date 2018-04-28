@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-color: black;
   text-align: center;
   width: 800px;
   height: 800px;
@@ -33,7 +33,7 @@ body{
   position: center;
   left: 50px;
   bottom: 500px;
-  opacity: 0.4;
+  opacity: 0.1;
 
 }
 #box3{
