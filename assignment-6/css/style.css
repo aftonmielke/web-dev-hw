@@ -8,8 +8,8 @@ body{
   border: 10px solid #FDC400;
 }
 #orange-rainbow{
-  height: 600px;
-  width: 382px;
+  height: 382px;
+  width: 600px;
   padding-top: 10px;
 }
 #half-rainbow{
@@ -20,7 +20,7 @@ body{
 }
 
 #box1{
-  background-color: #F29400;
+  background-color: #fc9700;
   width: 800px;
   height: 400px;
   position: center;
