@@ -23,12 +23,13 @@ body{
   background-color: #F29400;
   width: 800px;
   height: 400px;
+  position: center;
 
 }
 #box2{
-  background-color: #FF514D;
-  width: 600px;
-  height: 400px;
+  background-color: ##f17800;
+  width: 500px;
+  height: 700px;
   position: relative;
   left: 100px;
   bottom: 700px;
