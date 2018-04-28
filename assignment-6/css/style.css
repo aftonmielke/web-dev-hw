@@ -19,15 +19,13 @@ body{
 
 }
 
-#square1{
-  border-bottom: 0px;
-  background-color: #FFE65C;
+#box1{
+  background-color: #F29400;
   width: 800px;
   height: 400px;
 
 }
 #box2{
-  border: 0px;
   background-color: #FF514D;
   width: 600px;
   height: 400px;
@@ -52,10 +50,6 @@ body{
   background-color: white;
   width: 800px;
   height: 400px;
-}
-iframe{
-  display: block;
-  margin: auto;
 }
 h1{
   color: #FF514D;
