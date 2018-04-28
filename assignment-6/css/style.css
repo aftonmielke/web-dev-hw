@@ -31,9 +31,9 @@ body{
   width: 500px;
   height: 700px;
   position: relative;
-  left: 100px;
-  bottom: 700px;
-  opacity: 0.6;
+  left: 50px;
+  bottom: 300px;
+  opacity: 0.4;
 
 }
 #box3{
@@ -42,19 +42,18 @@ body{
   width: 400px;
   height: 400px;
   position: relative;
-  left: 200px;
-  bottom: 900px;
-  opacity: 0.6;
+  left: 100px;
+  bottom: 600px;
+  opacity: 0.8;
 }
 #box4{
-  border-top: 0px;
-  background-color: white;
+  border-top: 9px solid ##afb200
+  background-color: ##ffa500;
   width: 800px;
   height: 400px;
 }
 h1{
   color: #FF514D;
-  font-family: serif;
+  font-family: impact;
   font-size: 60px;
-  font-family: sans-serif;
 }
