@@ -47,8 +47,8 @@ body{
   opacity: 0.2;
 }
 #box4{
-  border-top: 9px solid ##afb200
-  background-color: ##ffa500;
+  border-top: 9px solid #afb200;
+  background-color: #ffa500;
   width: 800px;
   height: 400px;
 }
