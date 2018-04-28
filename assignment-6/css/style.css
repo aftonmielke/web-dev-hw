@@ -1,5 +1,5 @@
 body{
-  background-color: #000000;
+  background-color: white;
   text-align: center;
   width: 800px;
   height: 800px;
@@ -27,12 +27,12 @@ body{
 
 }
 #box2{
-  background-color: ##f17800;
+  background-color: #f17800;
   width: 500px;
   height: 700px;
-  position: relative;
+  position: center;
   left: 50px;
-  bottom: 300px;
+  bottom: 500px;
   opacity: 0.4;
 
 }
