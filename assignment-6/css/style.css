@@ -38,12 +38,12 @@ body{
 }
 #box3{
     border: 0px;
-  background-color: #3144FF;
+  background-color: #a3a500;
   width: 400px;
   height: 400px;
   position: relative;
-  left: 100px;
-  bottom: 600px;
+  left: 40px;
+  bottom: 300px;
   opacity: 0.2;
 }
 #box4{
