@@ -51,6 +51,9 @@ body{
   background-color: #ffa500;
   width: 200px;
   height: 400px;
+  position: relative;
+  left: 75px;
+  bottom: 350px;
 }
 h1{
   color: #d1ca00;
