@@ -12,11 +12,12 @@ body{
   width: 600px;
   padding-top: 10px;
 }
+
 #half-rainbow{
   position: right;
   right: 200px;
   top: 495px;
-
+<!--orange #F29400, yellow #F29400, green #D4D700-->
 }
 
 #box1{
